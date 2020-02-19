@@ -1,6 +1,6 @@
 ## IMDb Movie Search 
 
-Demo: https://imdb-movie-search.now.sh/#/
+Demo: https://imdb-movie-search.now.sh
 
 <p align="center">
 **Preview**
