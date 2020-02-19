@@ -2,6 +2,13 @@
 
 Demo: https://imdb-movie-search.now.sh/#/
 
+
+#### Preview
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/ofelipechan/react-imdb-movie-search/master/preview.jpg" width="550">
+</p>
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -29,9 +36,3 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-
-## Preview
-
-<p align="center">
-    <img src="https://raw.githubusercontent.com/ofelipechan/react-imdb-movie-search/master/preview.jpg" width="550">
-</p>
