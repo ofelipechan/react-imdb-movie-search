@@ -2,8 +2,8 @@
 
 Demo: https://imdb-movie-search.now.sh
 
-<p align="center">
-**Preview**
+<p align="center" style="font-weight: bold;">
+    Preview
 </p>
 
 <p align="center">
