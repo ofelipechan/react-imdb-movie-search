@@ -18,7 +18,7 @@ export const searchMovie = text => dispatch => {
 
 export const fetchMovies = text => async dispatch => {
     try {
-        const response = await axios.get(`http://www.omdbapi.com/?apikey=${APIKey}&s=${text}`);
+        const response = await axios.get(`https://www.omdbapi.com/?apikey=${APIKey}&s=${text}`);
         if (response.Error) {
             throw response.Error;
         }
@@ -33,7 +33,7 @@ export const fetchMovies = text => async dispatch => {
 
 export const fetchMovie = id => async dispatch => {
     try {
-        const response = await axios.get(`http://www.omdbapi.com/?apikey=${APIKey}&i=${id}`);
+        const response = await axios.get(`https://www.omdbapi.com/?apikey=${APIKey}&i=${id}`);
         if (response.Error) {
             throw response.Error;
         }
