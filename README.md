@@ -1,5 +1,8 @@
 ## IMDb Movie Search 
 
+This is a simple Movie and TV Series search platform that shows data from [IMDb](https://www.imdb.com/).
+My goal building this project was just to improve my skills with React.
+
 Demo: https://imdb-movie-search.now.sh
 
 <p align="center">
@@ -37,3 +40,8 @@ The build is minified and the filenames include the hashes.<br />
 Your app is ready to be deployed!
 
 
+### Author
+
+| [![github/ofelipechan](https://avatars0.githubusercontent.com/u/26874734?v=3&s=115)](https://github.com/ofelipechan "Checkout github") |
+|---|
+| [Felipe S. Chan](https://github.com/ofelipechan) |
